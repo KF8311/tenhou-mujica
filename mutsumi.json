@@ -1,11 +1,11 @@
 {
-  "ver":1.0,
-  "se":{
-    "26":{"url":https://raw.githubusercontent.com/KF8311/tenhou-mujica/main/mutsumi/act_pon.wav"},
-    "28":{"url":https://raw.githubusercontent.com/KF8311/tenhou-mujica/main/mutsumi/act_kan.wav"},
-    "30":{"url":https://raw.githubusercontent.com/KF8311/tenhou-mujica/main/mutsumi/act_chii.wav"},
-    "32":{"url":https://raw.githubusercontent.com/KF8311/tenhou-mujica/main/mutsumi/act_reach.wav"},
-    "34":{"url":https://raw.githubusercontent.com/KF8311/tenhou-mujica/main/mutsumi/act_ron.wav"},
-    "36":{"url":https://raw.githubusercontent.com/KF8311/tenhou-mujica/main/mutsumi/act_tsumo.wav"}
+  "ver": 1.0,
+  "se": {
+    "26": { "url": "https://raw.githubusercontent.com/KF8311/tenhou-mujica/main/mutsumi/act_pon.wav" },
+    "28": { "url": "https://raw.githubusercontent.com/KF8311/tenhou-mujica/main/mutsumi/act_kan.wav" },
+    "30": { "url": "https://raw.githubusercontent.com/KF8311/tenhou-mujica/main/mutsumi/act_chii.wav" },
+    "32": { "url": "https://raw.githubusercontent.com/KF8311/tenhou-mujica/main/mutsumi/act_reach.wav" },
+    "34": { "url": "https://raw.githubusercontent.com/KF8311/tenhou-mujica/main/mutsumi/act_ron.wav" },
+    "36": { "url": "https://raw.githubusercontent.com/KF8311/tenhou-mujica/main/mutsumi/act_tsumo.wav" }
   }
 }
